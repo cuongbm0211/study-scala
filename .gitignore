@@ -1,0 +1,15 @@
+.idea
+*.iml
+build
+out
+target
+output
+.DS_Store
+overlays
+*.log
+*.hprof
+*~
+.classpath
+.project
+.settings
+*.sc
